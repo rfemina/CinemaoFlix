@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374217401589",
+    "project_id": "cinemaoflix",
+    "storage_bucket": "cinemaoflix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374217401589:android:1e1863b0f020414c1dd1bc",
+        "android_client_info": {
+          "package_name": "com.projetosrafaelfemina.cinemaoflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3AH2LuOb2hT-dEEWfDoZaPo-ANwOuPUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
